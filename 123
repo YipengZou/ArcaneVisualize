@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T03:48:32.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.3" etag="AhKpkj6fiCAXdaPq0UC3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T03:53:46.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DcVYJ95dqybaJhCaQOp9" version="21.2.3" type="github">
   <diagram name="Page-1" id="KcoejwAj_mut2fl3duUg">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-3" target="tV_9Nr_xoyUL6gg00urD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-3" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;菌种活化&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-5" target="tV_9Nr_xoyUL6gg00urD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-5" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;种子液培养&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-7" target="tV_9Nr_xoyUL6gg00urD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-7" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;发酵罐培养&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726.75" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-9" target="tV_9Nr_xoyUL6gg00urD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-9" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;发酵后预处理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-11" target="tV_9Nr_xoyUL6gg00urD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-11" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;细胞破碎&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033.25" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-13" target="tV_9Nr_xoyUL6gg00urD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-13" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;离心&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-15" target="tV_9Nr_xoyUL6gg00urD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-15" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;合成ZIF-8&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-17" target="tV_9Nr_xoyUL6gg00urD-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-17" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;离心&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-19" target="tV_9Nr_xoyUL6gg00urD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-19" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;干燥&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406.75" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-21" target="tV_9Nr_xoyUL6gg00urD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-21" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;菌基功能化ZIF-8&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-23" target="tV_9Nr_xoyUL6gg00urD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-23" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;离心&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713.25" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-25" target="tV_9Nr_xoyUL6gg00urD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-25" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;干燥&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-27" target="tV_9Nr_xoyUL6gg00urD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-27" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;戊二醛交联&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-29" target="tV_9Nr_xoyUL6gg00urD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-29" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;离心&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-31" target="tV_9Nr_xoyUL6gg00urD-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-31" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;β-琼胶酶固定化&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-33" target="tV_9Nr_xoyUL6gg00urD-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-33" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;离心&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tV_9Nr_xoyUL6gg00urD-35" target="tV_9Nr_xoyUL6gg00urD-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-35" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;真空干燥&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tV_9Nr_xoyUL6gg00urD-36" value="&lt;font face=&quot;Noto Serif Simplified Chinese&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;包装&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
